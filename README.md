@@ -22,14 +22,14 @@
 #### 스터디 기간 2021.03 ~ 2021.05
 
 
-|회차|날짜|팀|내용,자료|다시보기|
-|:---:|:---:|:---:|:---:|:---:|
+|회차|날짜|팀|내용|자료|다시보기|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |0회차|21.03.18|x|OT, 소개|x|
-|1회차|21.03.22 ~ 21.04.02 (발표날은 4/1 21시)|1팀|[2장-반도체 박막 두께 분석](https://dacon.io/competitions/official/235554/overview/description/)|예정|
-|2회차|21.04.26 ~ 21.05.07 (발표날은 5/6 21시)|2팀|[3장-퇴근시간 버스 승차인원 예측](https://dacon.io/competitions/official/229255/overview/description/)|예정|
-|3회차|21.05.10 ~ 21.05.21 (발표날은 5/20 21시)|3팀|[4장-상점 신용카드 매출 예측](https://dacon.io/competitions/official/140472/overview/description/)|예정|
-|4회차|21.05.24 ~ 21.05.28 (발표날은 5/27 21시)|1,2,3팀|[실전-심리 성향 예측 AI 경진 대회](https://dacon.io/competitions/official/235647/overview/description/)|예정|
-|5회차|미정|ALL|총 결산|예정|
+|1회차|21.03.22 ~ 21.04.02 (발표날은 4/1 21시)|1팀|[2장-반도체 박막 두께 분석](https://dacon.io/competitions/official/235554/overview/description/)|예정|예정|
+|2회차|21.04.26 ~ 21.05.07 (발표날은 5/6 21시)|2팀|[3장-퇴근시간 버스 승차인원 예측](https://dacon.io/competitions/official/229255/overview/description/)|예정|예정|
+|3회차|21.05.10 ~ 21.05.21 (발표날은 5/20 21시)|3팀|[4장-상점 신용카드 매출 예측](https://dacon.io/competitions/official/140472/overview/description/)|예정|예정|
+|4회차|21.05.24 ~ 21.05.28 (발표날은 5/27 21시)|1,2,3팀|[실전-심리 성향 예측 AI 경진 대회](https://dacon.io/competitions/official/235647/overview/description/)|예정|예정|
+|5회차|미정|ALL|총 결산|예정|예정|
 
 
 
