@@ -29,7 +29,6 @@
 |2회차|21.04.26 ~ 21.05.07 (발표날은 5/6 21시)|2팀|[3장-퇴근시간 버스 승차인원 예측](https://dacon.io/competitions/official/229255/overview/description/)|[2회차 자료](https://github.com/sejongsmarcle/2021_Spring_DataAnalysisStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8)|[유튜브](https://youtu.be/Kb_sSJj1v-0)|
 |3회차|21.05.10 ~ 21.05.21 (발표날은 5/20 21시)|3팀|[4장-상점 신용카드 매출 예측](https://dacon.io/competitions/official/140472/overview/description/)|[3회차 자료](https://github.com/sejongsmarcle/2021_Spring_DataAnalysisStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8)|[유튜브](https://youtu.be/ycUqANLspu0)|
 |4회차|21.05.24 ~ 21.05.28 (발표날은 5/27 21시)|1,2,3팀|[실전-심리 성향 예측 AI 경진 대회](https://dacon.io/competitions/official/235647/overview/description/)|[4회차 자료](https://github.com/sejongsmarcle/2021_Spring_DataAnalysisStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8)|[유튜브](https://youtu.be/Kgxfw-XGdq4)|
-|5회차|미정|ALL|총 결산|예정|예정|
 
 
 
